@@ -1,7 +1,5 @@
-
-# work in progress... 🧘‍♂️
-
-
+# 🩻 Radiologist by day, geek by night. 🌃
+Want to get in contact? Message me via Telegram: [`@t_lorcas`](https://t.me/t_lorcas)
 <!--
 **luc-ass/luc-ass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
